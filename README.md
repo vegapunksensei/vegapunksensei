@@ -1,16 +1,24 @@
-## Hi there 👋
+# Welcome to My GitHub Abyss
 
-<!--
-**vegapunksensei/vegapunksensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is where code goes to die and dreams get buried under `TODO` comments. 💀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  My Skillset
+
+- **JavaScript**: For writing bugs that *work* sometimes.  
+- **Python**: Pretending I know AI.
+- **HTML/CSS**: Still can’t center a div.  
+
+---
+
+## My GitHub in Numbers
+- 🔥 **0+ repos**, 98% unfinished.  
+- 🤷‍♂️ **0 Forks** (even I wouldn’t fork this mess).  
+- 🏆 **Achievements**: Once deleted `production` on a Friday.  
+
+---
+
+## Pro Tip:
+If you’re here for inspiration, hit Ctrl+W to close this tab. You’re welcome.  
+
